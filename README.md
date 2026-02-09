@@ -88,6 +88,7 @@ The pipeline consists of the following stages:
 ---
 
 ## Project Structure
+``` 
 ena-philosophy/
 ├── data/               # Raw and processed datasets
 ├── preprocessing/      # Text processing and coding scripts
@@ -95,3 +96,4 @@ ena-philosophy/
 ├── analysis/           # Statistical analysis and interpretation
 └── notebooks/          # Exploratory analysis and examples
 
+```
